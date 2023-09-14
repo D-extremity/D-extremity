@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently **pursuing my Engineering**
 
-- 🌱 I’m currently **developing my skills in Java**
-
 - ⚡ Fun fact **Newbie Learner**
 
 <h3 align="left">Connect with me:</h3>
