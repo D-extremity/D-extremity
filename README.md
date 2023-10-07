@@ -2,7 +2,7 @@
 
 ![github](https://github.com/D-extremity/D-extremity/assets/83233310/066f40d7-388d-4464-ba5c-05b8062eaf81)
 
-![Markkdown](https://komarev.com/ghpvc/?username=D-extremity)
+
 
 <h1 align="center">Hi 👋, I'm Satyam Shrivastav🧿⭐</h1>
 <h3 align="center">A passionate learner from India</h3>
