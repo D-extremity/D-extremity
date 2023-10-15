@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Satyam Shrivastav🧿⭐</h1>
 <h3 align="center">A passionate learner from India</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=D-extremity" alt="D-extremity" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=D-extremity&theme=onedark" alt="D-extremity" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
 ![Github Stats](https://komarev.com/ghpvc/?username=D-extremity)
