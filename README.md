@@ -11,7 +11,7 @@
 ![Github Stats](https://komarev.com/ghpvc/?username=D-extremity)
 
 
-[AbesSync Windows v1.0](https://drive.google.com/drive/folders/1LD8WWK6WGh1brPR9IFzqkX1CVNtHhjYC?usp=drive_link)
+
 
 - 🔭 I’m currently **pursuing my Engineering**
 
