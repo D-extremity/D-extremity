@@ -11,7 +11,7 @@
 ![Github Stats](https://komarev.com/ghpvc/?username=D-extremity)
 
 
-[AbesSync Windows Latest Download](https://github.com/D-extremity/ABES_SYNC-WIFI/releases/download/latest/abes_sync.exe)
+[AbesSync Windows Latest Download](https://github.com/D-extremity/ABES_SYNC-WIFI/releases/download/v2.5/abes_sync.exe)
 
 - 🔭 I’m currently **pursuing my Engineering**
 
